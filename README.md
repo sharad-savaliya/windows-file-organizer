@@ -51,8 +51,6 @@ git clone https://github.com/sharad-savaliya/windows-file-organizer.git
 cd windows-file-organizer
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
-
 ## How to Use
 
 1. Open the extracted project folder.
