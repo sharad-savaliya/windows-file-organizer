@@ -47,7 +47,7 @@ Only extensions configured in the script are organized. Other file types remain 
 If Git is installed, run:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/windows-file-organizer.git
+git clone https://github.com/sharad-savaliya/windows-file-organizer.git
 cd windows-file-organizer
 ```
 
